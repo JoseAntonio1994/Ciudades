@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ciudades</string>
+
+    <string name="nom_chiapas">Chiapas</string>
+    <string name="nom_veracruz">Veracruz</string>
+    <string name="nom_guerrero">Guerrero</string>
+    <string name="nom_chihuahua">Chihuahua</string>
+    <string name="informacion">Este es un parque arqueológico en México</string>
+    <string name="detalle">Este es un parque arqueológico en México en donde podemos visitar en vacaciones. Es importante saber en donde inicio nuestra cultura</string>
+</resources>
